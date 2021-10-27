@@ -10,14 +10,18 @@ Pode se tornar um executável com o pyinstaller.
 <h2 align="center">Instalação</h2>
 <p align="justify">
 No diretório raiz do projeto:
+  
 ```bash
 pip install requirements.txt
 python pjepacket.py
 ```
+  
 Se quiser utilizar como instalador:
+  
 ```bash
 pyinstaller pjepacket.py
 ```
+  
 Em seguida vá ao diretório build/pjepacket/pjepacket.exe
 </p>
 
