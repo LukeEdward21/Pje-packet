@@ -27,5 +27,5 @@ Em seguida, vá ao diretório build/pjepacket/pjepacket.exe
 
 <h2>Avisos</h2>
 <p>
-Este script foi desenvolvido com foco no modelo de token: StarSign Crypto Starsign CUT S (GD), usuários do Windows 10 e no PjeOffice. Não é recomendado a sua execução para outros sistemas ou outros modelos de Token ou outros softwares de autenticação em sistemas de tribunais tais como o shodo.
+Este script foi desenvolvido com foco no modelo de token: StarSign Crypto Starsign CUT S (GD), usuários do Windows 10 e no PjeOffice. Não é recomendado a sua execução para outros sistemas ou outros modelos de Token ou ainda outros softwares de autenticação em sistemas de tribunais tais como o shodo.
 </p>
