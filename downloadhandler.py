@@ -95,3 +95,4 @@ class DownloadHandler:
             return [True, '{} foi baixado com sucesso!'.format(file_name)]
         except Exception as err:
             return [False, 'Erro! não foi possível baixar {}.'.format(file_name), err]
+

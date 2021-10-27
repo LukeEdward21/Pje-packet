@@ -1,6 +1,3 @@
-#!/bin/python
-# -*- coding: utf-8 -*-
-
 class ProgressBar:
 
     def __init__(self, progress, total, barlength = None):
