@@ -22,7 +22,7 @@ Se quiser utilizar como instalador:
 pyinstaller pjepacket.py
 ```
   
-Em seguida vá ao diretório build/pjepacket/pjepacket.exe
+Em seguida, vá ao diretório build/pjepacket/pjepacket.exe
 </p>
 
 <h2>Avisos</h2>
